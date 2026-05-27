@@ -1,4 +1,4 @@
-const API = "http://localhost:3001/users"
+const API = "https://crud-users-vy5n.onrender.com/users"
 
 function App() {
   const [users, setUsers] = React.useState([])
